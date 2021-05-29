@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malakMomani)](https://github.com/malakMomani/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malakMomani&hide=contribs,prs)
+
 <!--
 **malakMomani/malakMomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
